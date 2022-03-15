@@ -2,6 +2,6 @@
 A clone of the popular game of 2048 written in pygame.
 
 # Screenshots
-![Screen Shot 2022-03-14 at 9 52 20 PM](https://user-images.githubusercontent.com/49791407/158290229-70196191-ee26-4696-bf35-5ba90d8ae03d.png)
-<img width="535" alt="score 1" src="https://user-images.githubusercontent.com/49791407/158290331-2032802e-6a12-434a-acaf-c061fcf731bd.png">
-<img width="494" alt="score 2" src="https://user-images.githubusercontent.com/49791407/158290335-57b8dd46-c729-4be3-8d35-cdccf038efe7.png">
+![SCR-20220314-um9](https://user-images.githubusercontent.com/49791407/158291535-67b97682-5926-46a0-8e5b-276724a8a288.png)
+![SCR-20220314-ulk](https://user-images.githubusercontent.com/49791407/158291538-a9d99f4e-5ec3-4c39-8a6f-f2bf306ee613.png)
+![SCR-20220314-uhm](https://user-images.githubusercontent.com/49791407/158291545-b949196e-dd7a-4278-bb7d-376893b25f2a.png)
