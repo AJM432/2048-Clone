@@ -1,7 +1,7 @@
 # 2048-Clone
 A clone of the popular game of 2048 written in pygame.
 
-![](https://tokei.rs/b1/github/AJM432/2048-Clone) ![python-3](https://user-images.githubusercontent.com/49791407/185817280-7e6303aa-aa93-4e70-b728-d40c056893e3.svg)
+![](https://img.shields.io/badge/Python-3-yellow?style=flat) ![](https://img.shields.io/tokei/lines/github/AJM432/2048-Clone) ![](https://img.shields.io/github/repo-size/AJM432/2048-Clone?style=flat)
 
 
 # Screenshot
