@@ -15,3 +15,11 @@
 
 ## Usage
 Use the arrow keys to shift the board and add blocks with the same value. Try not to run out of room and get a score of 2048 to win.
+
+## Features
+- Allows for custom board configurations as board state is stored as a matrix.
+- Uses dynamic board size allowing for board dimensions greater than 3x3.
+- Outputs a list of lists representing the board state after each game movement.
+
+## License
+2048-Clone is licensed under the ![MIT license](https://github.com/AJM432/2048-Clone/blob/main/LICENSE.md).
